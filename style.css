@@ -1,0 +1,18 @@
+body {
+  background-color: #dc98fb;
+  font-family: "Yanone Kaffeesatz";
+  font-size: 46px;
+  text-align: center;
+  box-shadow: 1px 1px 1px 1px rgba(14, 3, 3, 0.8);
+}
+
+.flashy {
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.best {
+  width: 20%;
+  height: 20%
+}
