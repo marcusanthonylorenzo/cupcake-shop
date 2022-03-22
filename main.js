@@ -6,10 +6,10 @@ $(document).ready(function () {
     $("body").addClass('dark');
   });
 
-
-  $('#best').click(function () {
-    $("body").removeAttr('background-color');
-    $("body").addClass('light');
-  });
+  //light option, not yet resettable
+  // $('#best').click(function () {
+  //   $("body").removeAttr('background-color');
+  //   $("body").addClass('light');
+  // });
 
 });
